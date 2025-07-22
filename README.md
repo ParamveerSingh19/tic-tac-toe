@@ -6,7 +6,7 @@ Tic Tac Toe – Classic Game with Animated Background A stylish and responsive T
 👉 [Play Now on Netlify](https://glowarenaxo.netlify.app/)
 
 ## 📂 Repository
-🔗 [GitHub Repository](https://github.com/ParamveerSingh19/Tic-Tac-Toe)
+🔗 [GitHub Repository](https://github.com/ParamveerSingh19/tic-tac-toe)
 
 ---
 
@@ -36,4 +36,4 @@ Paramveer Singh
 GitHub: @ParamveerSingh19
 
 📄 License
-This project is open-source and available under the MIT License.
+This project is licensed under the [MIT License](LICENSE).
