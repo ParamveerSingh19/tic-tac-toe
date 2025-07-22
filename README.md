@@ -3,9 +3,11 @@
 Tic Tac Toe – Classic Game with Animated Background A stylish and responsive Tic Tac Toe game built with HTML, CSS, and JavaScript. Features glowing welcome screen, animated background shapes, live score tracking, and mobile-friendly layout.
 
 ## 🌐 Live Demo
+
 👉 [Play Now on Netlify](https://glowarenaxo.netlify.app/)
 
 ## 📂 Repository
+
 🔗 [GitHub Repository](https://github.com/ParamveerSingh19/tic-tac-toe)
 
 ---
@@ -22,18 +24,21 @@ Tic Tac Toe – Classic Game with Animated Background A stylish and responsive T
 
 
 ## 🛠️ Built With
+
 ## HTML5
 
 ## CSS3 (Animations, Flexbox, Grid)
 
 ## Vanilla JavaScript (no frameworks)
 
-📱 Responsiveness
+## 📱 Responsiveness
+
 This game is fully responsive and mobile-friendly, with proper scaling and alignment across devices.
 
-🙋‍♂️ Author
-Paramveer Singh
-GitHub: @ParamveerSingh19
+## 👨‍💻 Author
 
-📄 License
+Made by [Paramveer Singh](https://github.com/ParamveerSingh19)
+
+## 📄 License
+
 This project is licensed under the [MIT License](LICENSE).
